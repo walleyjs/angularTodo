@@ -1,0 +1,7 @@
+{
+  "name": "blank-todo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
